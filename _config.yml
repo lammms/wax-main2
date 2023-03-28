@@ -22,7 +22,7 @@
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://lammms.github.io'
-baseurl:          '/wax-main2'
+baseurl:          '/wax-main2/'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
